@@ -5,7 +5,7 @@ I'm a Software Developer specialising in the Javascript ecosystem >>> Stack incl
 
 #### Currently i am actively working on following projects:
 
-* [Bioscenosis]() - Phylogenetic visualisation platform that leverages Lambdas for processing & genetic research
+* [Biocenosis]() - Phylogenetic visualisation platform that leverages Lambdas for processing & genetic research
 * [Everyone's Invited](https://www.everyonesinvited.uk/) - Platform migration, API rewiring, Cost reduction, Deployment
 <!-- Organisation focused on exposing rape culture through conversation, education and support. -->
 
