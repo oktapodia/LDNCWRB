@@ -34,7 +34,7 @@ I'm a Software Developer specialising in the Javascript ecosystem >>> Stack incl
 
 
 
-🔥 Work Hard, Play Hard
+<!-- 🔥 Work Hard, Play Hard -->
 <!-- 💾 Currently Researching Dapps, BlockChain, PCI-DSS, (TLS) HSTS -->
 <!-- 📫 Drop me a message at bouinronan@hotmail.com -->
 
